@@ -1,3 +1,4 @@
 Meu primeiro conteudo para aprender mais sobre repositório GIT. 
 oi
 tudo bem
+Simulando uma alteração feita por outra pessoa.
