@@ -1,3 +1,4 @@
 MEU PRIMEIRO CONTEÚDO PARA APRENDER MAIS SOBRE REPOSITÓRIO GIT. 
 oi
 tudo bem
+Simulando uma alteração feita por outra pessoa.
